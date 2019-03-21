@@ -1,4 +1,4 @@
-public class Alunox extends Pessoa {
+public class Alunoxx32 extends Pessoa {
 
 	private Matricula matricula;
 
